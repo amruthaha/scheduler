@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyAlarm</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint">Taking break in between work increases your productivity! I am here to schedule your work.</string>
+    <string name="title_activity_alarm_receiver">AlarmReceiver</string>
+    <string name="title_activity_device_boot_receiver">DeviceBootReceiver</string>
+</resources>
+
